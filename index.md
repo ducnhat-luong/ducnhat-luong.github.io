@@ -1,4 +1,4 @@
-# Portfolio
+# Works and Publications 
 ---
 ## Chemical Plume Tracing Robot
 
@@ -6,9 +6,15 @@
 
 My published research article in [***Sensors***](https://www.mdpi.com/1424-8220/23/3/1140) (January, 2022).
 
-<center><img src="images/cpt.png"/></center>
+<center><img src="images/cpt.jpg"/></center>
+
+
+
 
 **Neural Machine Translation:** An NMT system which translates texts from Spanish to English using a Bidirectional LSTM encoder for the source sentence and a Unidirectional LSTM Decoder with multiplicative attention for the target sentence ([GitHub](https://github.com/chriskhanhtran/CS224n-NLP-Solutions/tree/master/assignments/)).
+
+
+
 
 **Dependency Parsing:** A Neural Transition-Based Dependency Parsing system with one-layer MLP ([GitHub](https://github.com/chriskhanhtran/CS224n-NLP-Assignments/tree/master/assignments/a3)).
 
@@ -45,6 +51,10 @@ My published research article in [***Sensors***](https://www.mdpi.com/1424-8220/
 <center><img src="images/detect-spam-nlp.png"/></center>
 <br>
 
+
+
+
+
 ---
 ## Data Science
 
@@ -60,39 +70,12 @@ My published research article in [***Sensors***](https://www.mdpi.com/1424-8220/
 <br>
 
 ---
-### Kaggle Competition: Predict Ames House Price using Lasso, Ridge, XGBoost and LightGBM
+### 3D model construction of mechanical and electronic components
 
-[![Open Notebook](https://img.shields.io/badge/Jupyter-Open_Notebook-blue?logo=Jupyter)](projects/ames-house-price.html)
-[![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/chriskhanhtran/kaggle-house-price/blob/master/ames-house-price.ipynb)
-
-<div style="text-align: justify">I performed comprehensive EDA to understand important variables, handled missing values, outliers, performed feature engineering, and ensembled machine learning models to predict house prices. My best model had Mean Absolute Error (MAE) of 12293.919, ranking <b>95/15502</b>, approximately <b>top 0.6%</b> in the Kaggle leaderboard.</div>
+<div style="text-align: justify"> I constructed 3D models of mechanical and electronic components for the manufacturing and education purpose by using Computer-Aided Design software (SolidWorks and AUTODESK Inventor). This is the works I performed during the internship (June 2018 - August 2018) at DKS PRODUCTION AND TRADING Co., Ltd, Vietnam.</div>
 <br>
-<center><img src="images/ames-house-price.jpg"/></center>
-<br>
-
----
-### Predict Breast Cancer with RF, PCA and SVM using Python
-
-[![Open Notebook](https://img.shields.io/badge/Jupyter-Open_Notebook-blue?logo=Jupyter)](projects/breast-cancer.html)
-[![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/chriskhanhtran/predict-breast-cancer-with-rf-pca-svm/blob/master/breast-cancer.ipynb)
-
-<div style="text-align: justify">In this project I am going to perform comprehensive EDA on the breast cancer dataset, then transform the data using Principal Components Analysis (PCA) and use Support Vector Machine (SVM) model to predict whether a patient has breast cancer.</div>
-<br>
-<center><img src="images/breast-cancer.png"/></center>
+<center><img src="images/mechanical.jpg"/></center>
 <br>
 ---
 
-## Filmed by me
-
-[![View My Films](https://img.shields.io/badge/YouTube-View_My_Films-grey?logo=youtube&labelColor=FF0000)](https://www.youtube.com/watch?v=vfZwdEWgUPE)
-
-<div style="text-align: justify">Besides Data Science, I also have a great passion for photography and videography. Below is a list of films I documented to retain beautiful memories of places I traveled to and amazing people I met on the way.</div>
-<br>
-
-- [Ada Von Weiss - You Regret (Winter at Niagara)](https://www.youtube.com/watch?v=-5esqvmPnHI)
-- [The Weight We Carry is Love - TORONTO](https://www.youtube.com/watch?v=vfZwdEWgUPE)
-- [In America - Boston 2017](https://www.youtube.com/watch?v=YdXufiebgyc)
-- [In America - We Call This Place Our Home (Massachusetts)](https://www.youtube.com/watch?v=jzfcM_iO0FU)
-
----
 <center>© 2022 Nhat Luong.</center>
