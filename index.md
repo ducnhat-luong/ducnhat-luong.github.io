@@ -1,8 +1,7 @@
 # Works and Publications 
 ---
-## Chemical Plume Tracing Robot
 
-### Odor Source Localization in Obstacle Regions Using Switching Planning Algorithms with a Switching Framework
+## Odor Source Localization in Obstacle Regions Using Switching Planning Algorithms with a Switching Framework
 
 My published research article in [***Sensors***](https://www.mdpi.com/1424-8220/23/3/1140) (January, 2022).
 
@@ -21,7 +20,7 @@ My published research article in [***Sensors***](https://www.mdpi.com/1424-8220/
 <center><img src="images/nlp.png"/></center>
 
 ---
-### Detect Non-negative Airline Tweets: BERT for Sentiment Analysis
+## Detect Non-negative Airline Tweets: BERT for Sentiment Analysis
 
 [![Run in Google Colab](https://img.shields.io/badge/Colab-Run_in_Google_Colab-blue?logo=Google&logoColor=FDBA18)](https://colab.research.google.com/drive/1f32gj5IYIyFipoINiC8P3DvKat-WWLUK)
 
@@ -56,23 +55,19 @@ My published research article in [***Sensors***](https://www.mdpi.com/1424-8220/
 
 
 ---
-## Data Science
+##  Designing intelligent autonomous robot using the SLAM algorithm, RRT* algorithm, and Fuzzy-PID techniques.
 
-### Credit Risk Prediction Web App
+My published research article in [***Acta Polytechnica Hungarica***](http://acta.uni-obuda.hu/Mac_Lin_Huan_Nhat_Hoang_Hai_113.pdf) (January, 2022).
 
-[![Open Web App](https://img.shields.io/badge/Heroku-Open_Web_App-blue?logo=Heroku)](http://credit-risk.herokuapp.com/)
-[![Open Notebook](https://img.shields.io/badge/Jupyter-Open_Notebook-blue?logo=Jupyter)](https://github.com/chriskhanhtran/credit-risk-prediction/blob/master/documents/Notebook.ipynb)
-[![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/chriskhanhtran/credit-risk-prediction)
-
-<div style="text-align: justify">After my team preprocessed a dataset of 10K credit applications and built machine learning models to predict credit default risk, I built an interactive user interface with Streamlit and hosted the web app on Heroku server.</div>
+<div style="text-align: justify">I used RRT* algorithm to built a path planning ROS package for a customized mobile robot. </div>
 <br>
-<center><img src="images/credit-risk-webapp.png"/></center>
+<center><img src="images/rrt.png"/></center>
 <br>
 
 ---
-### 3D model construction of mechanical and electronic components
+## 3D model construction of mechanical and electronic components
 
-<div style="text-align: justify"> I constructed 3D models of mechanical and electronic components for the manufacturing and education purpose by using Computer-Aided Design software (SolidWorks and AUTODESK Inventor). This is the works I performed during the internship (June 2018 - August 2018) at DKS PRODUCTION AND TRADING Co., Ltd, Vietnam.</div>
+<div style="text-align: justify"> I constructed 3D models of mechanical and electronic components for manufacturing and education purposes by using Computer-Aided Design software (SolidWorks and AUTODESK Inventor). This is the work I performed during the internship (June 2018 - August 2018) at DKS PRODUCTION AND TRADING Co., Ltd, Vietnam. </div>
 <br>
 <center><img src="images/mechanical.jpg"/></center>
 <br>
