@@ -1,12 +1,12 @@
 # Portfolio
 ---
-## Natural Language Processing
+## Chemical Plume Tracing Robot
 
-### CS224n: Natural Language Processing with Deep Learning
+### Odor Source Localization in Obstacle Regions Using Switching Planning Algorithms with a Switching Framework
 
-My complete implementation of assignments and projects in [***CS224n: Natural Language Processing with Deep Learning***](http://web.stanford.edu/class/cs224n/) by Stanford (Winter, 2019).
+My published research article in [***Sensors***](https://www.mdpi.com/1424-8220/23/3/1140) (January, 2022).
 
-[![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/chriskhanhtran/CS224n-NLP-Solutions/tree/master/assignments/)
+<center><img src="images/cpt.png"/></center>
 
 **Neural Machine Translation:** An NMT system which translates texts from Spanish to English using a Bidirectional LSTM encoder for the source sentence and a Unidirectional LSTM Decoder with multiplicative attention for the target sentence ([GitHub](https://github.com/chriskhanhtran/CS224n-NLP-Solutions/tree/master/assignments/)).
 
@@ -80,18 +80,8 @@ My complete implementation of assignments and projects in [***CS224n: Natural La
 <br>
 <center><img src="images/breast-cancer.png"/></center>
 <br>
-
 ---
-### Business Analytics Conference 2018: How is NYC's Government Using Money?
 
-[![Open Research Poster](https://img.shields.io/badge/PDF-Open_Research_Poster-blue?logo=adobe-acrobat-reader&logoColor=white)](pdf/bac2018.pdf)
-
-<div style="text-align: justify">In three-month research and a two-day hackathon, I led a team of four students to discover insights from 6 million records of NYC and Boston government spending data sets and won runner-up prize for the best research poster out of 18 participating colleges.</div>
-<br>
-<center><img src="images/bac2018.JPG"/></center>
-<br>
-
----
 ## Filmed by me
 
 [![View My Films](https://img.shields.io/badge/YouTube-View_My_Films-grey?logo=youtube&labelColor=FF0000)](https://www.youtube.com/watch?v=vfZwdEWgUPE)
@@ -105,4 +95,4 @@ My complete implementation of assignments and projects in [***CS224n: Natural La
 - [In America - We Call This Place Our Home (Massachusetts)](https://www.youtube.com/watch?v=jzfcM_iO0FU)
 
 ---
-<center>© 2020 Khanh Tran. Powered by Jekyll and the Minimal Theme.</center>
+<center>© 2022 Nhat Luong.</center>
