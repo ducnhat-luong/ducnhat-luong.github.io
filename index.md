@@ -5,6 +5,8 @@
 
 My published research article in [***Sensors***](https://www.mdpi.com/1424-8220/23/3/1140) (January, 2022).
 
+<div style="text-align: justify">Odor source localization (OSL) robots are crucial for rescuing teams dealing with hazardous chemical plumes. Constructing the dispersion model of the odor plume for probabilistic odor source search algorithms is difficult due to the complex environment. In this study, we simplified the environment into sub-environments with different resolutions and proposed a framework that alternates between Infotaxis and Dijkstra algorithms to navigate the agent. This improved the success rate and reduced the average moving steps. Our implementation on an autonomous mobile robot verified its effectiveness. </div>
+
 <br>
 <center><img src="images/cpt.jpg"/></center>
 <br>
