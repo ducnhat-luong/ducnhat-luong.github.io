@@ -18,6 +18,16 @@ My published research article in [***Acta Polytechnica Hungarica***](http://acta
 <br>
 
 ---
+##  Navigation of Automatic Guided Vehicles (AGV) using multiple vision-based algorithms.
+
+I joined the designing an analog control system of AGV in industrial environments using CAN-bus.
+This is the work I performed during the internship (March 2019 - May 2019) at National Taiwan University of Science and Technology (NTUST). The project was under the cooperation between the UBIQELIFE Technology Corporation and the Center for Intelligent Robots (NTUST).
+
+<br>
+<center><img src="images/ntust.png"/></center>
+<br>
+
+---
 ## 3D model construction of mechanical and electronic components
 
 <div style="text-align: justify"> I constructed 3D models of mechanical and electronic components for manufacturing and education purposes by using Computer-Aided Design software (SolidWorks and AUTODESK Inventor). This is the work I performed during the internship (June 2018 - August 2018) at DKS PRODUCTION AND TRADING Co., Ltd, Vietnam. </div>
