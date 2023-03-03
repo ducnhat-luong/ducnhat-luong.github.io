@@ -5,7 +5,19 @@
 
 My published research article in [***Sensors***](https://www.mdpi.com/1424-8220/23/3/1140) (January, 2022).
 
+<br>
 <center><img src="images/cpt.jpg"/></center>
+<br>
+
+---
+##  Developed real-time data-assisted system on package handling, work shifts for workers, truck drivers.
+
+During my tenure at Giao Hang Tiet Kiem (GHTK, JSC) from October 2019 to September 2020, I executed a variety of tasks:
+
+<div style="text-align: justify">As an Automation Engineer and Backend Developer, I successfully designed and built up an Warehouse Management System (WMS) for E-commerce services. My contributions included developing and integrating a crossbelt system, designing semi-automatic portable sorting machines, and implementing intelligent warehouse solutions. Through my efforts, I enabled the company to streamline its operations and increase efficiency in its order fulfillment process. </div>
+<br>
+<center><img src="images/ghtk.png"/></center>
+<br>
 
 ---
 ##  Designing intelligent autonomous robot using the SLAM algorithm, RRT* algorithm, and Fuzzy-PID techniques.
@@ -36,3 +48,6 @@ During my internship at National Taiwan University of Science and Technology (NT
 ---
 
 <center>© 2022 Nhat Luong.</center>
+
+
+
