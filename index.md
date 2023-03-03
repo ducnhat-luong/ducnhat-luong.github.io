@@ -12,9 +12,19 @@ My published research article in [***Sensors***](https://www.mdpi.com/1424-8220/
 
 My published research article in [***Acta Polytechnica Hungarica***](http://acta.uni-obuda.hu/Mac_Lin_Huan_Nhat_Hoang_Hai_113.pdf) (January, 2022).
 
-<div style="text-align: justify">I used RRT* algorithm to built a path planning ROS package for a customized mobile robot. </div>
+<div style="text-align: justify">I successfully applied my expertise in simultaneous localization and mapping (SLAM) and RRT* path planning algorithm to enable a mobile robot to efficiently navigate its surroundings by accurately defining its environment and determining its optimal path. </div>
 <br>
 <center><img src="images/rrt.png"/></center>
+<br>
+
+---
+##  Navigation of Automatic Guided Vehicles (AGV) using multiple vision-based algorithms.
+
+I joined the designing an analog control system of AGV in industrial environments using CAN-bus.
+This is the work I performed during the internship (March - May 2019) at National Taiwan University of Science and Technology (NTUST). The project was under the cooperation between the UBIQELIFE Technology Corporation and the Center for Intelligent Robots (NTUST).
+
+<br>
+<center><img src="images/ntust.png"/></center>
 <br>
 
 ---
